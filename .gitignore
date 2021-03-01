@@ -5,3 +5,4 @@ private.py
 *.env
 node_modules/
 migrations/
+*.pyc
